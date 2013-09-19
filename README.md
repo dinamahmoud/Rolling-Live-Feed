@@ -1,9 +1,3 @@
----
-layout: app
-style: program
-title: Rolling Live Feed
-app: Rolling Live Feed
----
 ##	Rolling Live Feed
 
 Sensors detect occupied workstations and project their desktops onto a large screen in the office, switching screens every 15 minutes.
